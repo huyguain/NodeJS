@@ -27,7 +27,7 @@
 	``` javascript
 	git commit -m "First Commit"
 	```
--Clone:
+- Clone:
 	``` javascript
 	$ git clone https://github.com/thachphamblog/hoc-git
 	```
@@ -35,3 +35,6 @@
 	``` javascript
 	$ git push origin master
 	```
+## 5. COMMIT VA STAGING AREA
+- Staging area
+	git add để đưa 
